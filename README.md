@@ -1,18 +1,5 @@
 # University Campus Carpooling & Ride-Sharing Optimization System
 
-<p align="center">
-  <strong>Intelligent Ride Matching and Route Optimization Using Design & Analysis of Algorithms</strong>
-</p>
-
-<p align="center">
-  ![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus)
-  ![DAA](https://img.shields.io/badge/Domain-DAA-blue?style=for-the-badge)
-  ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge)
-  ![Status](https://img.shields.io/badge/Status-Academic%20Project-success?style=for-the-badge)
-</p>
-
----
-
 ## 1. Project Overview
 
 The **University Campus Carpooling & Ride-Sharing Optimization System** is a C++ application developed to optimize daily transportation for university students, faculty members, and administrative staff.
@@ -219,11 +206,3 @@ The test scenario included two drivers, two riders, and a fuel rate of ₹8 per 
 3. Dijkstra, E. W. (1959) — A Note on Two Problems in Connexion with Graphs.
 4. Agatz et al. (2012) — Optimization for Dynamic Ride-Sharing: A Review.
 5. Stroustrup — The C++ Programming Language, 4th Edition.
-
----
-
-<p align="center">
-  <strong>University Campus Carpooling System</strong>
-  <br/>
-  Optimizing Routes • Connecting Commuters • Reducing Travel Costs
-</p>
