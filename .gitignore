@@ -1,0 +1,15 @@
+# Compiled executable files
+*.exe
+*.out
+*.o
+
+# Temporary files
+*.tmp
+tempCodeRunnerFile.*
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
